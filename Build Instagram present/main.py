@@ -5,7 +5,7 @@ from time import sleep
 
 Chrome_driver_path= r"C:\Users\14014\Desktop\100 days of code course Jupiter note book files\Web development topics\Chrome driver\chromedriver.exe"
 
-SIMILAR_ACCOUNT = "python.hub"
+SIMILAR_ACCOUNT = ""
 INSTAGRAM_URL = "https://www.instagram.com/"
 INSTAGRAM_ACCOUNT = ''
 INSTAGRAM_PASSWORD = ''
