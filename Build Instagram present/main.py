@@ -7,8 +7,8 @@ Chrome_driver_path= r"C:\Users\14014\Desktop\100 days of code course Jupiter not
 
 SIMILAR_ACCOUNT = "python.hub"
 INSTAGRAM_URL = "https://www.instagram.com/"
-INSTAGRAM_ACCOUNT = "yeisontech2020@gmail.com"
-INSTAGRAM_PASSWORD = "Enmanuel1995695"
+INSTAGRAM_ACCOUNT = ''
+INSTAGRAM_PASSWORD = ''
 
 class IcreaseFollowers:
 
